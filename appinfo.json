@@ -1,0 +1,42 @@
+{
+    "versionLabel": "2.1.0",
+    "uuid": "7ff57cf2-bf8d-424c-bfd2-c64d8e886ae9",
+    "appKeys": {
+        "status": 3,
+        "rewards": 0,
+        "balance": 2,
+        "stars": 1,
+        "barcode": 4
+    },
+    "longName": "DCBucks",
+    "versionCode": 2,
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "shortName": "DCBucks",
+    "companyName": "DC",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "IMAGE_STAR",
+                "file": "images/star.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_REWARD",
+                "file": "images/reward.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/icon.png"
+            }
+        ]
+    }
+}
