@@ -8,13 +8,13 @@
         "stars": 1,
         "barcode": 4
     },
-    "longName": "DCBucks",
+    "longName": "PebbleBucks UK",
     "versionCode": 2,
     "capabilities": [
         "location",
         "configurable"
     ],
-    "shortName": "DCBucks",
+    "shortName": "PebbleBucksUK",
     "companyName": "DC",
     "watchapp": {
         "watchface": false
