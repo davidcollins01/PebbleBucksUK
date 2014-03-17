@@ -12,7 +12,7 @@ static BitmapLayer *reward_bitmap_layer;
 static BitmapLayer *star_bitmap_layer;
 
 static char *label_text[4] = { NULL, NULL, NULL, NULL };
-static const char *label_default_text[4] = { "0", "0", "$0", "" };
+static const char *label_default_text[4] = { "0", "0", "£0", "" };
 static const char *updating_text = "Updating...";
 static const char *connection_error_text = "< ! > Error:\nNo Connection";
 
